@@ -17,14 +17,19 @@
    <widget class="QLabel" name="label">
     <property name="geometry">
      <rect>
-      <x>170</x>
-      <y>100</y>
-      <width>231</width>
-      <height>20</height>
+      <x>360</x>
+      <y>20</y>
+      <width>571</width>
+      <height>361</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <pointsize>100</pointsize>
+     </font>
+    </property>
     <property name="text">
-     <string>Text Label</string>
+     <string/>
     </property>
    </widget>
   </widget>
